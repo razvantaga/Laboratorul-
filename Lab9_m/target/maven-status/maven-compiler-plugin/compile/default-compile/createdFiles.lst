@@ -1,0 +1,6 @@
+com\mycompany\lab9_m\entity\Artist.class
+com\mycompany\lab9_m\repo\ArtistRepository.class
+com\mycompany\lab9_m\entity\Album.class
+com\mycompany\lab9_m\repo\AlbumRepository.class
+com\mycompany\lab9_m\app\AlbumManager.class
+com\mycompany\lab9_m\util\PersistenceUtil.class
